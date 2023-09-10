@@ -4,5 +4,5 @@
 *.out
 *.swp
 .vscode
-bin/game_life_main/game_life_main
-bin/game_life_test/
+bin/game_nim_main/game_nim_main
+bin/game_nim_test/
