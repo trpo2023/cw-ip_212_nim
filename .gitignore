@@ -1,0 +1,8 @@
+*.a
+*.o
+*.d
+*.out
+*.swp
+.vscode
+bin/game_nim_main/game_nim_main
+bin/game_nim_test/
